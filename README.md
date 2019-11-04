@@ -1,4 +1,6 @@
-# natural-language-learning
+# Natural Language Learning
+
+This repository contains information pertaining to my ended
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MDkxNTEwXX0=
+eyJoaXN0b3J5IjpbLTE1NjIwNTA4NzddfQ==
 -->
