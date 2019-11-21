@@ -9,7 +9,7 @@ Several researches have been performed that investigate the relationship between
 |Article| Description |
 |--|--|
 | [Pimsleur, the memory schedule](https://github.com/evowilliamson/natural-language-learning/blob/master/resources/Pimsleur_memory_schedule.pdf) | Paul Pimsleur investigated the concept of repetion in his famous article in 1967, supported by emperical research |
-| [Pimsleur, the memory schedule](https://github.com/evowilliamson/natural-language-learning/blob/master/resources/Lilli%20Kimppa_learning_repetition.pdf) | Lilli Kimppa performed an excellent study, backed up by emperical and theoretical research regarding the repetition of novel stimuli |
+| [Individual language experience modulates rapid formation of cortical memory circuits for novel words](https://github.com/evowilliamson/natural-language-learning/blob/master/resources/Lilli%20Kimppa_learning_repetition.pdf) | Lilli Kimppa performed an excellent study, backed up by emperical and theoretical research regarding the repetition of novel stimuli |
 
 Personally, I was introduced into the **Pimsleur** method about 15 years ago when I decided to study Chinese Mandarin. To my learning skills I added the technique of breaking down songs in verses and refrains and presenting them in a repetitive manner. until mastering the complete, without even understanding the complete meaning of the songs, but just by hearing and seeing the words. From that point I focused on grasping the meaning of the individual words and phrases until completely understanding it.
 
@@ -22,6 +22,6 @@ That method proved very effective and aided me a lot in acquiring the basics of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODQzMzY2NywtMTAyNzUzNjkyMSwtMT
+eyJoaXN0b3J5IjpbMTYzNTYwMjk3OCwtMTAyNzUzNjkyMSwtMT
 kwODkwNDI1MCwxODgyODMyMTM4XX0=
 -->
